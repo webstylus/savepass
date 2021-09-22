@@ -1,6 +1,8 @@
 ## Desafio Ignite
 
-Uma simples aplicação para salvar seus acessos a outras aplicações como email e senha.
+Uma simples aplicação para salvar seus acessos como email e senha.
+Os dados são salvos somente no celular em local storage, limpando o cache os dados somem.
+
 Desenvolvido com React-Native e TypeScript
 ![alt text](https://github.com/webstylus/savepass/blob/main/src/assets/images/cover.png?raw=true)
 
